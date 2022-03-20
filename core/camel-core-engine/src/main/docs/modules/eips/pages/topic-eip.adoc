@@ -6,7 +6,7 @@
 :supportlevel: Stable
 
 Topic mode for the xref:loadBalance-eip.adoc[Load Balancer] EIP.
-With this policy then all destination is selected.
+With this policy the exchange will be sent to all endpoints (or processors).
 
 == Options
 
